@@ -1,6 +1,6 @@
 
 
-CREATE TABLE encounters (
+CREATE TABLE claims_transactions(
  Id VARCHAR(100)
 ,CLAIMID(100)
 ,CHARGEID VARCHAR(100)
