@@ -37,8 +37,19 @@ Future updates will include more refined dashboards, Python scripts for validati
 5. **Model Governance Checks**  
    - SQL: Reconciliation between charges, payments, adjustments, and outstanding balances  
    - Tableau: Data quality dashboards  
-   - Actuarial link: Model validation and governance practices  
+   - Actuarial link: Model validation and governance practices
+     
 
 ---
 
 ## 📂 Project Structure
+
+···
+health-claims-analysis/
+│
+├── sql_queries/              # SQL scripts for claims, loss ratio, trend analysis
+├── tableau_dashboards/       # Tableau workbooks and dashboards
+├── data/                     # Sample health dataset (de-identified)
+└── README.md                 # Project documentation
+
+···
