@@ -44,7 +44,7 @@ Future updates will include more refined dashboards, Python scripts for validati
 
 ## 📂 Project Structure
 
-’‘’
+``` 
 health-claims-analysis/
 │
 ├── sql_queries/              # SQL scripts for claims, loss ratio, trend analysis
@@ -52,4 +52,4 @@ health-claims-analysis/
 ├── data/                     # Sample health dataset (de-identified)
 └── README.md                 # Project documentation
 
-‘’‘
+``` 
